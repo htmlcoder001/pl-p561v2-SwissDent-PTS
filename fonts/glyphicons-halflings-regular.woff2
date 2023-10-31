@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<!--// OPEN HTML //-->
+<html lang="pl-PL" class="no-js">
+
+<head>
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<!--// SITE META //-->
+	<meta charset="UTF-8">
+	<!-- Mobile Specific Metas
+    ================================================== -->
+						<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+				<meta name="format-detection" content="telephone=no">
+		<!--// PINGBACK & FAVICON //-->
+	<link rel="pingback" href="https://pts.net.pl/xmlrpc.php">
+				<link rel="shortcut icon" href="../images/logo-1.png">
+				<link rel="apple-touch-icon-precomposed" href="../images/logo57px.jpg">
+			<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../images/logo114px.jpg">
+			<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../images/logo72px.jpg">
+			<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../images/logo144px.jpg">
+		<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '626205581597988'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" src="../tr">
+</noscript>
+<!-- End Facebook Pixel Code -->	<meta name="robots" content="noindex, follow">
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.11 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Strony nie znaleziono &ndash; Polskie Towarzystwo Stomatologiczne</title>
+	<meta property="og:locale" content="pl_PL">
+	<meta property="og:title" content="Strony nie znaleziono &ndash; Polskie Towarzystwo Stomatologiczne">
+	<meta property="og:site_name" content="Polskie Towarzystwo Stomatologiczne">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://pts.net.pl/#website","url":"https://pts.net.pl/","name":"Polskie Towarzystwo Stomatologiczne","description":"Polskie Towarzystwo Stomatologiczne","publisher":{"@id":"https://pts.net.pl/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://pts.net.pl/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pl-PL"},{"@type":"Organization","@id":"https://pts.net.pl/#organization","name":"Polskie Towarzystwo Stomatologiczne","url":"https://pts.net.pl/","logo":{"@type":"ImageObject","inLanguage":"pl-PL","@id":"https://pts.net.pl/#/schema/logo/image/","url":"https://pts.net.pl/wp-content/uploads/2018/06/logo.png","contentUrl":"https://pts.net.pl/wp-content/uploads/2018/06/logo.png","width":181,"height":181,"caption":"Polskie Towarzystwo Stomatologiczne"},"image":{"@id":"https://pts.net.pl/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/PTSpolskietowarzystwostomatologiczne","https://twitter.com/PTS_towarzystwo"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="alternate" type="application/rss+xml" title="Polskie Towarzystwo Stomatologiczne &raquo; Kanał z wpisami" href="https://pts.net.pl/feed/">
+<link rel="alternate" type="application/rss+xml" title="Polskie Towarzystwo Stomatologiczne &raquo; Kanał z komentarzami" href="https://pts.net.pl/comments/feed/">
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/pts.net.pl\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wppm-plugin-css-css" href="../css/wppm.frontend.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="../css/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="classic-theme-styles-css" href="../css/classic-themes.min.css" type="text/css" media="all">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('glyphicons-halflings-regular.woff2#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('glyphicons-halflings-regular.woff2#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('glyphicons-halflings-regular.woff2#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('glyphicons-halflings-regular.woff2#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('glyphicons-halflings-regular.woff2#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('glyphicons-halflings-regular.woff2#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('glyphicons-halflings-regular.woff2#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('glyphicons-halflings-regular.woff2#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="../css/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="redux-extendify-styles-css" href="../css/extendify-utilities.css" type="text/css" media="all">
+<link rel="stylesheet" id="meks-author-widget-css" href="../css/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="bsf-Defaults-css" href="../css/Defaults.css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="../css/bootstrap.css" type="text/css" media="all">
+<link rel="stylesheet" id="line-icons-css" href="../css/line-icons.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="../css/font-awesome.css" type="text/css" media="all">
+<link rel="stylesheet" id="animations-css" href="../css/animations.css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap_theme-css" href="../css/bootstrap-theme.css" type="text/css" media="all">
+<link rel="stylesheet" id="borntogive_main-css" href="../css/style_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="magnific_popup-css" href="../css/magnific-popup.css" type="text/css" media="all">
+<link rel="stylesheet" id="owl-carousel1-css" href="../css/owl.carousel.css" type="text/css" media="all">
+<link rel="stylesheet" id="owl-carousel2-css" href="../css/owl.theme.css" type="text/css" media="all">
+<link rel="stylesheet" id="theme-colors-css" href="../css/color11.css" type="text/css" media="all">
+<link rel="stylesheet" id="borntogive_fullcalendar-css" href="../css/fullcalendar.css" type="text/css" media="all">
+<link rel="stylesheet" id="borntogive_fullcalendar_print-css" href="../css/fullcalendar.print.css" type="text/css" media="print">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Playfair%20Display%7CLato%7CDosis&#038;display=swap&#038;ver=1630959146"><link rel="stylesheet" href="../css/css.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="../css/css.css"></noscript><script type="text/javascript" src="../js/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="../js/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="../js/rbtools.min.js" async id="tp-tools-js"></script>
+<script type="text/javascript" src="../js/rs6.min.js" async id="revmin-js"></script>
+<script type="text/javascript" src="../js/moment.min.js" id="borntogive_fullcalendar_moments-js"></script>
+<link rel="https://api.w.org/" href="https://pts.net.pl/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pts.net.pl/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://pts.net.pl/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 6.2.3">
+<meta name="generator" content="Redux 4.4.4"><style type="text/css" id="wppm_custom_css"></style><style type="text/css">
+@media (min-width:1200px){.container{width:1170px;}}
+		body.boxed .body, body.boxed .vc_row-no-padding{max-width:1200px!important;}
+		@media (min-width: 1200px) {body.boxed .site-header{width:1200px;margin-left:-600px;}}.content{min-height:400px}.smenu-opener{line-height:51px}.dd-menu ul li .smenu-opener{line-height:42px}.page-banner{min-height:200px}.page-banner .block-title:before, .page-banner .block-title:after{display:block;}.page-banner .block-title{margin-bottom:40px;}.campaign-progress-wrap{display:block!important}.page-banner .block-title:before, .page-banner .block-title:after{background:;}.header-style1 .header-info-col, .header-style1 .search-module-trigger, .header-style1 .cart-module-trigger, .header-style2 .search-module-trigger, .header-style2 .cart-module-trigger{margin-top:17px;}.dd-menu{top:73px;}
+/*========== User Custom CSS Styles ==========*/
+#header{
+margin: 0 auto;
+}</style>
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<meta name="generator" content="Powered by Slider Revolution 6.5.31 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+<style id="borntogive_options-dynamic-css" title="dynamic-css" class="redux-options-output">.content{padding-top:60px;padding-bottom:60px;}.search-module-trigger, .cart-module-trigger{color:#a8a8a8;}.header-style2 .topbar .header-info-col, .header-style3 .topbar .header-info-col{color:#ffffff;}.page-banner{background-color:#014289;}.topbar, .topbar .topmenu li ul{background-color:#333333;}.site-logo{padding-top:20px;padding-right:0px;padding-bottom:20px;padding-left:0px;}.header-style1 .dd-menu > li, .header-style2 .dd-menu > li{margin-top:17px;margin-right:0px;margin-bottom:0px;margin-left:25px;}.dd-menu > li > ul > li > a, .dd-menu > li > ul > li > ul > li > a, .dd-menu > li > ul > li > ul > li > ul > li > a{padding-top:12px;padding-right:20px;padding-bottom:12px;padding-left:20px;}#menu-toggle{line-height:50px;font-size:24px;}#menu-toggle{margin-top:12px;margin-right:0px;margin-bottom:0px;margin-left:25px;}.smenu-opener{height:51px;width:75px;}.smenu-opener{line-height:51px;font-size:16px;}.dd-menu ul li .smenu-opener{height:42px;width:51px;}.dd-menu ul li .smenu-opener{font-size:16px;}.site-footer{padding-top:70px;padding-bottom:70px;}.site-footer-bottom{padding-top:20px;padding-bottom:20px;}.copyrights-col-right .social-icons li a{line-height:28px;font-size:20px;}.copyrights-col-right .social-icons li a{color:#333;}.copyrights-col-right .social-icons li a{background-color:#eeeeee;}.copyrights-col-right .social-icons li a{height:28px;width:28px;}.social-share-bar .share-title{line-height:30px;}.social-share-bar li a{height:30px;width:30px;}.social-share-bar li a{line-height:30px;font-size:14px;}h1,h2,h3,h4,h5,h6, .featured-link strong, .featured-text strong{font-family:"Playfair Display";}body, .widget h5,.online-event-badge{font-family:Lato;}.event-date{font-family:Dosis;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<!--// CLOSE HEAD //-->
+
+<body data-rsssl="1" class="error404  header-style2 wpb-js-composer js-comp-ver-6.9.0 vc_responsive">
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0.49803921568627"/><fefuncg type="table" tableValues="0 0.49803921568627"/><fefuncb type="table" tableValues="0 0.49803921568627"/><fefunca type="table" tableValues="1 1"/></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"/></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"/><fefuncg type="table" tableValues="0 1"/><fefuncb type="table" tableValues="0 1"/><fefunca type="table" tableValues="1 1"/></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"/></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.54901960784314 0.98823529411765"/><fefuncg type="table" tableValues="0 1"/><fefuncb type="table" tableValues="0.71764705882353 0.25490196078431"/><fefunca type="table" tableValues="1 1"/></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"/></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"/><fefuncg type="table" tableValues="0 0.27843137254902"/><fefuncb type="table" tableValues="0.5921568627451 0.27843137254902"/><fefunca type="table" tableValues="1 1"/></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"/></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0"/><fefuncg type="table" tableValues="0 0.64705882352941"/><fefuncb type="table" tableValues="0 1"/><fefunca type="table" tableValues="1 1"/></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"/></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.78039215686275 1"/><fefuncg type="table" tableValues="0 0.94901960784314"/><fefuncb type="table" tableValues="0.35294117647059 0.47058823529412"/><fefunca type="table" tableValues="1 1"/></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"/></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.65098039215686 0.40392156862745"/><fefuncg type="table" tableValues="0 1"/><fefuncb type="table" tableValues="0.44705882352941 0.4"/><fefunca type="table" tableValues="1 1"/></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"/></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.098039215686275 1"/><fefuncg type="table" tableValues="0 0.66274509803922"/><fefuncb type="table" tableValues="0.84705882352941 0.41960784313725"/><fefunca type="table" tableValues="1 1"/></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"/></filter></defs></svg>	<style type="text/css">.hero-area{display:block;}.social-share-bar{display:block;}.page-banner h1, .page-banner-text{display:block;}.content{}body.boxed{}
+		.content{}</style>	<div class="body">
+		<header class="topbar">
+    <div class="container">
+        <ul class="social-icons topmenu pull-right">
+            <li class="facebook"><a href="https://www.facebook.com/PTSpolskietowarzystwostomatologiczne" target="_blank"><i class="fa fa-facebook"></i></a></li><li class="twitter"><a href="https://twitter.com/PTS_towarzystwo" target="_blank"><i class="fa fa-twitter"></i></a></li><li class="youtube"><a href="https://www.youtube.com/channel/UC2xmp_G53iQuGn1YPPNwpFw" target="_blank"><i class="fa fa-youtube"></i></a></li>        </ul>
+                                    <div class="header-info-col">
+                     <strong><a href="https://pts-app.pl/signup" target="_blank" rel="nofollow">portal PTS - logowanie</a></strong>
+                </div>
+                </div>
+</header>
+<!-- Site Header Wrapper -->
+<div class="site-header-wrapper">
+    <!-- Site Header -->
+    <header class="site-header">
+        <div class="container">
+            <div class="site-logo">
+                                    <a href="https://pts.net.pl/" class="default-logo"><img src="../images/pts-70-lecie.jpg" alt="Polskie Towarzystwo Stomatologiczne"></a>
+                    <a href="https://pts.net.pl/" class="default-retina-logo"><img src="../images/pts-logo.png" alt="Polskie Towarzystwo Stomatologiczne" width="199" height="30"></a>
+                    <a href="https://pts.net.pl/" class="sticky-logo"><img src="../images/pts-70-lecie.jpg" alt="Polskie Towarzystwo Stomatologiczne"></a>
+                    <a href="https://pts.net.pl/" class="sticky-retina-logo"><img src="../images/pts-logo.png" alt="Polskie Towarzystwo Stomatologiczne" width="199" height="30"></a>
+                            </div>
+            <a href="#" class="visible-sm visible-xs" id="menu-toggle"><i class="fa fa-bars"></i></a>
+            <div class="search-module">
+                	<a href="#" class="search-module-trigger"><i class="fa fa-search"></i></a>
+                    <div class="search-module-opened">
+                    	 <form method="get" id="searchform" action="https://pts.net.pl//">
+                        	<div class="input-group input-group-sm">
+                        		<input type="text" name="s" id="s" class="form-control input-sm">
+                            	<span class="input-group-btn"><button name="submit" type="submit" class="btn btn-lg btn-default"><i class="fa fa-search"></i></button></span>
+                       		</div>
+                        </form>
+                    </div>
+                </div>                        <ul id="menu-pts-menu" class="sf-menu dd-menu pull-right"><li class="menu-item-1228 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/aktualnosci/">Aktualności<span class="nav-line"></span></a></li><li class="menu-item-1543 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children "><a>PTS<span class="nav-line"></span></a>
+<ul class="sub-menu">
+	<li class="menu-item-1263 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/cele-pts/">Cele PTS</a>	</li><li class="menu-item-4141 menu-item menu-item-type-custom menu-item-object-custom "><a href="https://pts-app.pl/signup">Dołącz do nas</a>	</li><li class="menu-item-1549 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/historia/">Historia</a>	</li><li class="menu-item-1793 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/statut/">Statut</a>	</li><li class="menu-item-1546 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children "><a href="https://pts.net.pl/struktura/">Struktura</a>
+	<ul class="sub-menu">
+		<li class="menu-item-1628 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/struktura/prezydent-pts/">Prezydent PTS</a>		</li><li class="menu-item-2196 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/struktura/zarzad-glowny-pts/">Zarząd Główny PTS</a>		</li><li class="menu-item-2167 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/struktura/komisja-rewizyjna/">Komisja Rewizyjna</a>		</li><li class="menu-item-2174 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/struktura/sad-kolezenski/">Sąd Koleżeński</a>		</li><li class="menu-item-1631 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/struktura/biuro-prezydenta-pts/">Biuro Prezydenta PTS</a>		</li><li class="menu-item-2226 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/struktura/biuro-zarzadu-glownego-pts/">Biuro Zarządu Głównego PTS</a>	</li></ul>
+</li></ul>
+</li><li class="menu-item-2019 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children "><a>Działalność<span class="nav-line"></span></a>
+<ul class="sub-menu">
+	<li class="menu-item-2000 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/oddzialy/">Oddziały</a>	</li><li class="menu-item-1272 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/znak-akceptacji-i-rekomendacja-pts/">Znak akceptacji i rekomedacja PTS</a>	</li><li class="menu-item-2025 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/dzialalnosc-krajowa/">Działalność krajowa</a>	</li><li class="menu-item-2024 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/dzialalnosc-miedzynarodowa/">Działalność międzynarodowa</a>	</li><li class="menu-item-2018 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/odznaczenia-i-nagrody/">Odznaczenia i nagrody</a>	</li><li class="menu-item-1269 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/patronat-honorowy/">Patronat PTS</a>	</li><li class="menu-item-4204 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/sekcje/">Sekcje</a>	</li><li class="menu-item-2028 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/wydawnictwa/">Wydawnictwa</a>	</li><li class="menu-item-3071 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/dokumenty-do-pobrania/">Dokumenty do pobrania</a></li></ul>
+</li><li class="menu-item-8841 menu-item menu-item-type-custom menu-item-object-custom "><a href="https://www.kongresstomatologii.pl/">Kongres PTS<span class="nav-line"></span></a></li><li class="menu-item-6542 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children "><a href="#">Dla członków<span class="nav-line"></span></a>
+<ul class="sub-menu">
+	<li class="menu-item-6543 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/specjalna-oferta-dla-czlonkow-pts-na-program-felg-dent/">Program FELG Dent</a>	</li><li class="menu-item-8427 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/ubezpieczenie-dla-dentystow-program-pzu-stworzony-dla-czlonkow-pts/">Ubezpieczenie dla dentystów</a>	</li><li class="menu-item-8789 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/philips-sonicare-specjalna-oferta-dla-czlonkow-pts/">Philips Sonicare</a></li></ul>
+</li><li class="menu-item-3080 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children "><a href="#">Edukacja<span class="nav-line"></span></a>
+<ul class="sub-menu">
+	<li class="menu-item-5626 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/centrum-wiedzy/">CENTRUM WIEDZY – COVID-19 a praca lekarza dentysty</a>	</li><li class="menu-item-1542 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/baza-dobrej-edukacji/">Baza Dobrej Edukacji PTS</a>	</li><li class="menu-item-3383 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/pts-case-study-club/">PTS Case Study Club</a>	</li><li class="menu-item-4834 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/european-master-degree-in-oral-implantology/">European Master Degree in Oral Implantology II edycja</a>	</li><li class="menu-item-3692 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/prawnik-radzi/">Prawnik radzi</a>	</li><li class="menu-item-3693 menu-item menu-item-type-custom menu-item-object-custom "><a href="http://www.protetstomatol.pl/">Protetyka Stomatologiczna</a>	</li><li class="menu-item-3694 menu-item menu-item-type-custom menu-item-object-custom "><a href="https://www.termedia.pl/Journal/Journal_of_Stomatology-137">Journal of Stomatology</a>	</li><li class="menu-item-3758 menu-item menu-item-type-post_type menu-item-object-post "><a href="https://pts.net.pl/najnowsze-rekomendacje-racjonalnej-antybiotykoterapii/">Racjonalna antybiotykoterapia</a>	</li><li class="menu-item-3834 menu-item menu-item-type-custom menu-item-object-custom "><a href="http://leczymymleczaki.pl/">Leczymy mleczaki!</a>	</li><li class="menu-item-8535 menu-item menu-item-type-custom menu-item-object-custom "><a href="http://www.polskamowiaaa.pl/">Polska mówi #aaa</a>	</li><li class="menu-item-4317 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/3-kongres-unii-stomatologii-polskiej/">3. Kongres Unii Stomatologii Polskiej</a></li></ul>
+</li><li class="menu-item-1230 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children "><a href="https://pts.net.pl/kontakt/">Kontakt<span class="nav-line"></span></a>
+<ul class="sub-menu">
+	<li class="menu-item-5925 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/kontakt/">Biuro</a>	</li><li class="menu-item-1996 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/biuro-prasowe/">Biuro prasowe</a>	</li><li class="menu-item-5968 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/konsultanci-krajowi-w-dziedzinach-stomatologicznych/">Konsultanci</a>	</li><li class="menu-item-2926 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://pts.net.pl/klauzula-informacyjna-rodo/">Regulamin strony internetowej www.pts.net.pl</a>	</li><li class="menu-item-5343 menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy "><a href="https://pts.net.pl/polityka-prywatnosci/">Polityka prywatności</a></li></ul>
+</li></ul>        </div>
+    </header>
+</div><div class="hero-area">
+	<div class="page-banner parallax" style="background-image:url(../images/background.jpg);">
+		<div class="container">
+			<div class="page-banner-text">
+				<h1 class="block-title">404 Error</h1>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Start Body Content -->
+<div class="main" role="main">
+	<div id="content" class="content full">
+		<div class="container">
+			<div class="row">
+				<!-- Posts List -->
+				<div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+					<!-- Post -->
+					<article class="page-404">
+						<div class="text-align-center">
+							<h2>404</h2>
+							<strong>Sorry - Page Not Found!</strong><p></p>
+							The page you are looking for was moved, removed, renamed<br>
+							or might never existed. You stumbled upon a broken link:(						</div>
+					</article>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- End Body Content -->
+<!-- Site Footer -->
+<div class="site-footer-bottom">
+	<div class="container">
+		<div class="row">
+								<div class="col-md-6 col-sm-6">
+																<div class="copyrights-col-left">
+							<p>© Copyright Polskie Towarzystwo Stomatologiczne <div> <span><a href="https://pts.net.pl/klauzula-informacyjna-rodo/">Regulamin strony internetowej</a></span> | <span><a href="https://pts.net.pl/polityka-prywatnosci/">Polityka prywatności</a></span></div></p>
+						</div>
+									</div>
+									<div class="col-md-6 col-sm-6">
+													<div class="copyrights-col-right">
+								<ul class="social-icons pull-right">
+									<li class="facebook"><a href="https://www.facebook.com/PTSpolskietowarzystwostomatologiczne" target="_blank"><i class="fa fa-facebook"></i></a></li><li class="twitter"><a href="https://twitter.com/PTS_towarzystwo" target="_blank"><i class="fa fa-twitter"></i></a></li>								</ul>
+							</div>
+											</div>
+							</div>
+		</div>
+	</div>
+	<a id="back-to-top"><i class="fa fa-angle-double-up"></i></a> </div>
+<!-- End Boxed Body -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="../js_1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-126101594-1');
+</script>
+<!--Ticket Modal-->
+<div class="modal fade" id="ticketModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="static">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h4 class="modal-title" id="myModalLabel">Your ticket for the: Trzecie w tym roku wydanie „Protetyki Stomatologicznej” jest już dostępne</h4>
+			</div>
+			<div class="modal-body">
+				<!-- Event Register Tickets -->
+				<div class="ticket-booking-wrapper">
+					<div class="ticket-booking">
+						<div class="event-ticket ticket-form">
+							<div class="event-ticket-left">
+								<div class="ticket-id"></div>
+								<div class="ticket-handle"></div>
+								<div class="ticket-cuts ticket-cuts-top"></div>
+								<div class="ticket-cuts ticket-cuts-bottom"></div>
+							</div>
+							<div class="event-ticket-right">
+								<div class="event-ticket-right-inner">
+									<div class="row">
+										<div class="col-md-9 col-sm-9">
+											<span class="registerant-info">
+																							</span>
+											<span class="meta-data">Title</span>
+											<h4 id="dy-event-title">Trzecie w tym roku wydanie „Protetyki Stomatologicznej” jest już dostępne</h4>
+										</div>
+										<div class="col-md-3 col-sm-3">
+											<span class="ticket-cost">PLN</span>
+										</div>
+									</div>
+									<div class="event-ticket-info">
+										<div class="row">
+											<div class="col">
+												<p class="ticket-col" id="dy-event-date"></p>
+											</div>
+											<div class="col">
+												<p class="ticket-col event-location" id="dy-event-location"></p>
+											</div>
+											<div class="col">
+												<p id="dy-event-time"></p>
+											</div>
+										</div>
+									</div>
+									<span class="event-area"></span>
+									<div class="row">
+										<div class="col-md-12">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default inverted" data-dismiss="modal">Close</button>
+				<button type="button" class="btn btn-primary" onClick="window.print()">Print</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = false;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script type="text/javascript">jQuery(document).ready(function(){
+
+});</script><link rel="stylesheet" id="rs-plugin-settings-css" href="../css/rs6.css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<script type="text/javascript" src="../js/imagesloaded.min.js" id="imagesloaded-js"></script>
+<script type="text/javascript" src="../js/masonry.min.js" id="masonry-js"></script>
+<script type="text/javascript" src="../js/jquery.masonry.min.js" id="jquery-masonry-js"></script>
+<script type="text/javascript" id="wppm-plugin-functions-js-extra">
+/* <![CDATA[ */
+var wppm_localize = {"ajax_err":"<a href=\"%url%\">The content<\/a> could not be loaded.","ajax_url":"https:\/\/pts.net.pl\/wp-admin\/admin-ajax.php","iecheck":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/wppm.frontend.js" id="wppm-plugin-functions-js"></script>
+<script type="text/javascript" src="../js/jquery.easing.min.js" id="wppm-jq-easing-js"></script>
+<script type="text/javascript" src="../js/owl.carousel.min.js" id="wppm-jq-owl-carousel-js"></script>
+<script type="text/javascript" src="../js/jquery.marquee.min.js" id="wppm-jq-marquee-js"></script>
+<script type="text/javascript" src="../js/index.js" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/pts.net.pl\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/index_1.js" id="contact-form-7-js"></script>
+<script type="text/javascript" src="../js/modernizr.js" id="modernizr-js"></script>
+<script type="text/javascript" src="../js/jquery.magnific-popup.min.js" id="magnific-js"></script>
+<script type="text/javascript" src="../js/ui-plugins.js" id="borntogive_ui_plugins-js"></script>
+<script type="text/javascript" src="../js/helper-plugins.js" id="borntogive_helper_plugins-js"></script>
+<script type="text/javascript" src="../js/owl.carousel.min_1.js" id="owl_carousel-js"></script>
+<script type="text/javascript" src="../js/bootstrap.js" id="bootstrap-js"></script>
+<script type="text/javascript" src="../js/init.js" id="borntogive_init-js"></script>
+<script type="text/javascript" src="../js/jquery.flexslider.js" id="borntogive_flexslider-js"></script>
+<script type="text/javascript" src="../js/circle-progress.js" id="borntogive_circle_progress-js"></script>
+<script type="text/javascript" src="../js/fullcalendar.min.js" id="borntogive_fullcalendar-js"></script>
+<script type="text/javascript" src="../js/gcal.js" id="borntogive_gcal-js"></script>
+<script type="text/javascript" id="borntogive_fullcalendar_init-js-extra">
+/* <![CDATA[ */
+var calenderEvents = {"homeurl":"https:\/\/pts.net.pl\/wp-content\/themes\/born-to-give","monthNames":["Stycze\u0144","Luty","Marzec","Kwiecie\u0144","Maj","Czerwiec","Lipiec","Sierpie\u0144","Wrzesie\u0144","Pa\u017adziernik","Listopad","Grudzie\u0144"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dayNames":["Niedziela","Poniedzia\u0142ek","Wtorek","\u015aroda","Czwartek","Pi\u0105tek","Sobota","Niedziela"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"time_format":"HH:mm","start_of_week":"1","googlekey":"","googlecalid":"","ajaxurl":"https:\/\/pts.net.pl\/wp-admin\/admin-ajax.php","calheadview":"2","eventLimit":"4","today":"Dzisiaj","month":"Miesi\u0105c","week":"Tydzie\u0144","day":"Dzie\u0144","view":"month"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/calender_events.js" id="borntogive_fullcalendar_init-js"></script>
+<script type="text/javascript" src="../js/api.js" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="../js/wp-polyfill-inert.min.js" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="../js/regenerator-runtime.min.js" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="../js/wp-polyfill.min.js" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-extra">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6Lf9decUAAAAAFmjsM50Reiag74ZSxX_m1zVSQDW","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/index_2.js" id="wpcf7-recaptcha-js"></script>
+</body>
+
+</html>
